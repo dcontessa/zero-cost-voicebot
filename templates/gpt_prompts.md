@@ -1,1 +1,1 @@
-# GPT Prompts\n\nThis folder contains example prompts used in ChatGPT for the voicebot.
+Prompt example for ChatGPT to act as a bilingual Malaysian service chatbot.
